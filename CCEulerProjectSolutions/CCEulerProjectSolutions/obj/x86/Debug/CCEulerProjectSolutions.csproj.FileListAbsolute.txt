@@ -1,0 +1,7 @@
+c:\users\ccrngd1\documents\visual studio 2010\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ccrngd1\documents\visual studio 2010\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\bin\Debug\CCEulerProjectSolutions.exe
+c:\users\ccrngd1\documents\visual studio 2010\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\bin\Debug\CCEulerProjectSolutions.pdb
+c:\users\ccrngd1\documents\visual studio 2010\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.exe
+c:\users\ccrngd1\documents\visual studio 2010\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.pdb
+C:\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.exe
+C:\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.pdb
