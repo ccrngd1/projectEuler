@@ -7,7 +7,7 @@ namespace CCEulerProjectSolutions
 {
     public class Problem3 : EulerProb
     {
-        public override Int64 Solve(string list)
+        public override string Solve(string list)
         {
 #if DEBUG
 
@@ -39,15 +39,15 @@ namespace CCEulerProjectSolutions
 
             if (retVal.Count > 0)
             {
-                return retVal[0];
+                return retVal[0].ToString();
             }
             else
             {
-                return -1;
+                return "-1";
             }   
         }
 
-        public override Int64 SolveSample()
+        public override string SolveSample()
         {
             return this.Solve("13195");
         }

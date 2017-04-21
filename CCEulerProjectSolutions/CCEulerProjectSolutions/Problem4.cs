@@ -7,7 +7,7 @@ namespace CCEulerProjectSolutions
 {
     class Problem4 : EulerProb
     {
-        public override Int64 Solve(string list)
+        public override string Solve(string list)
         {
             Int64 retVal = -1;
             Int64 MaxMultiplicand = Convert.ToInt64(list);
@@ -19,14 +19,14 @@ namespace CCEulerProjectSolutions
                 for (int j = (int)MaxMultiplicand; j > MaxMultiplicand - Cutoff; j--)
                 {
                     if (Helpers.PalindromCheck((i * j).ToString()))
-                        return i * j;
+                        return (i * j).ToString();
                 }
             }
 
-            return retVal;
+            return retVal.ToString();
         }
 
-        public override Int64 SolveSample()
+        public override string SolveSample()
         {
             return this.Solve("99");
         }        

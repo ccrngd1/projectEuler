@@ -7,7 +7,7 @@ namespace CCEulerProjectSolutions
 {
     class Problem8 : EulerProb
     {
-        public override Int64 Solve(string list)
+        public override string Solve(string list)
         {
 #if DEBUG
             //This needed to be hardcoded because pasting it into the console window only allows 255 characters to be passed in.
@@ -50,10 +50,10 @@ namespace CCEulerProjectSolutions
                 }
             }
 
-            return currentMaxProd;
+            return currentMaxProd.ToString();
         }
 
-        public override Int64 SolveSample()
+        public override string SolveSample()
         {
             return this.Solve("7999998");
         }

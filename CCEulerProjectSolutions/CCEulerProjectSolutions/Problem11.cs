@@ -7,12 +7,12 @@ namespace CCEulerProjectSolutions
 {
     class Problem11 : EulerProb
     {
-        public override Int64 Solve(string list)
+        public override string Solve(string list)
         {
             throw new NotImplementedException();
         }
 
-        public override Int64 SolveSample()
+        public override string SolveSample()
         {
             string s = "";
 

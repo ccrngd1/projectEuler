@@ -8,8 +8,8 @@ namespace CCEulerProjectSolutions
 {
     public abstract class EulerProb
     {
-        public abstract Int64 Solve(string list);
-        public abstract Int64 SolveSample();
+        public abstract string Solve(string list);
+        public abstract string SolveSample();
     }
 
     class Program
@@ -28,7 +28,9 @@ namespace CCEulerProjectSolutions
             ProbCollection.Add(new Problem9());
             ProbCollection.Add(new Problem10());
             ProbCollection.Add(new Problem11());
+
             bool proceed = true;
+
             while (proceed)
             {
                 Console.WriteLine("please enter the problem ID number you want to solve!");
@@ -41,7 +43,7 @@ namespace CCEulerProjectSolutions
                     temp = Console.ReadLine();
 
                     Console.WriteLine("calculating...");
-                    Console.WriteLine(ProbCollection[prob-1].Solve(temp).ToString());
+                    Console.WriteLine(ProbCollection[prob-1].Solve(temp));
                 }
 
                 catch (Exception ex)

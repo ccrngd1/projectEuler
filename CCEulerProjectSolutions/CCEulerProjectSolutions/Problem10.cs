@@ -7,14 +7,14 @@ namespace CCEulerProjectSolutions
 {
     class Problem10 : EulerProb
     {
-        public override Int64 Solve(string list)
+        public override string Solve(string list)
         {
             Int64 temp = Helpers.SumPrimes(Convert.ToInt64(list));
 
-            return temp;
+            return temp.ToString();
         }
 
-        public override Int64 SolveSample()
+        public override string SolveSample()
         {
             return this.Solve("10");
         }

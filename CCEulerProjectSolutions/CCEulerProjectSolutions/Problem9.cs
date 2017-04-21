@@ -7,7 +7,7 @@ namespace CCEulerProjectSolutions
 {
     class Problem9 : EulerProb
     {
-        public override Int64 Solve(string list)
+        public override string Solve(string list)
         {
             Int64 Sum = Convert.ToInt64(list);
             int a = 0;
@@ -19,14 +19,14 @@ namespace CCEulerProjectSolutions
                 {
                     if (a * a + b * b == (Sum - b - a) * (Sum - b - a))
                     {
-                        return a * b * (Sum-b-a);
+                        return (a * b * (Sum-b-a)).ToString();
                     }
                 }
             }
-            return -1;
+            return "-1";
         }
 
-        public override Int64 SolveSample()
+        public override string SolveSample()
         {
             return this.Solve("12");
         }

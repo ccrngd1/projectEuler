@@ -12,7 +12,7 @@ namespace CCEulerProjectSolutions
         /// </summary>
         /// <param name="list">param[0]=ceiling to add to</param>
         /// <returns></returns>
-        public override Int64 Solve(string list)
+        public override string Solve(string list)
         {
 #if DEBUG
             List<int> debugList = new List<int>();
@@ -32,10 +32,10 @@ namespace CCEulerProjectSolutions
                 last2 = last1;
                 last1 = tempCeiling;
             }
-            return retVal;
+            return retVal.ToString();
         }
 
-        public override Int64 SolveSample()
+        public override string SolveSample()
         {
             return this.Solve("10");
         }

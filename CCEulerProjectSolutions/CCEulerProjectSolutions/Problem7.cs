@@ -7,12 +7,12 @@ namespace CCEulerProjectSolutions
 {
     class Problem7 : EulerProb
     {
-        public override Int64 Solve(string list)
+        public override string Solve(string list)
         {
-            return Helpers.GenerateHighestPrime(Convert.ToInt64(list));
+            return Helpers.GenerateHighestPrime(Convert.ToInt64(list)).ToString();
         }
 
-        public override Int64 SolveSample()
+        public override string SolveSample()
         {
             return this.Solve("6");
         }

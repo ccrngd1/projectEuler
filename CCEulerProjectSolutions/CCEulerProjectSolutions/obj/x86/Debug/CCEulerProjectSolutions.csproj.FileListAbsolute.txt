@@ -5,3 +5,6 @@ c:\users\ccrngd1\documents\visual studio 2010\Projects\CCEulerProjectSolutions\C
 c:\users\ccrngd1\documents\visual studio 2010\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.pdb
 C:\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.exe
 C:\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.pdb
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.csprojResolveAssemblyReference.cache
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.exe
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.pdb

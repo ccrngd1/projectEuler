@@ -12,7 +12,7 @@ namespace CCEulerProjectSolutions
             /// </summary>
             /// <param name="list">0=ceiling, 1..n=multiples</param>
             /// <returns>sum of all numbers</returns>
-            public override Int64 Solve(string list)
+            public override string Solve(string list)
             {
                 Int64 retVal = 0;
                 string[] temp = list.Split(',');
@@ -34,10 +34,10 @@ namespace CCEulerProjectSolutions
                 }
                 catch (Exception ex) { retVal = -1; Console.WriteLine(ex.ToString()); }
 
-                return retVal;
+                return retVal.ToString();
             }
 
-            public override Int64 SolveSample()
+            public override string SolveSample()
             {
                 return Solve("10, 3, 5");
             }

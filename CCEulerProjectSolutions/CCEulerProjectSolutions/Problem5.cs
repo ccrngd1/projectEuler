@@ -7,7 +7,7 @@ namespace CCEulerProjectSolutions
 {
     class Problem5 : EulerProb
     {
-        public override Int64 Solve(string list)
+        public override string Solve(string list)
         {
             Int64 retVal = -1;
             Int64 MaxDivisor = Convert.ToInt64(list);
@@ -32,14 +32,12 @@ namespace CCEulerProjectSolutions
 
                 if (AllTrue)
                 {
-                    return indexer;
+                    return indexer.ToString();
                 }
             }
-
-            return retVal;
         }
 
-        public override Int64 SolveSample()
+        public override string SolveSample()
         {
             return this.Solve("10");
         }
