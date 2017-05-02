@@ -1,0 +1,14 @@
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\obj\Debug\CodeKataUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\CodeKataUnitTests.dll
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\CodeKataUnitTests.pdb
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\CCEulerProjectSolutions.exe
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\CCEulerProjectSolutions.pdb
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\obj\Debug\CodeKataUnitTests.dll
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CodeKataUnitTests\obj\Debug\CodeKataUnitTests.pdb

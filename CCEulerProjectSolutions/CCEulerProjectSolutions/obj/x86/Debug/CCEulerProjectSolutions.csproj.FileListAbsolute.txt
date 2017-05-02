@@ -8,3 +8,5 @@ C:\Projects\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEule
 C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.csprojResolveAssemblyReference.cache
 C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.exe
 C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CCEulerProjectSolutions\obj\x86\Debug\CCEulerProjectSolutions.pdb
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CCEulerProjectSolutions\bin\Debug\CCEulerProjectSolutions.exe
+C:\Users\ccrng\Google Drive\Documents\projects\projectEuler\CCEulerProjectSolutions\CCEulerProjectSolutions\bin\Debug\CCEulerProjectSolutions.pdb

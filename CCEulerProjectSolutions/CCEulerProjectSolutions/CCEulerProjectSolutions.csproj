@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CircularBuffer.cs" />
     <Compile Include="Helpers.cs" />
     <Compile Include="NumbersToWords.cs" />
     <Compile Include="Problem1.cs" />
